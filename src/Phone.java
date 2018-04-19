@@ -3,10 +3,7 @@
  */
 
 
-/**
- *
- * @author Osin Vladimir
- */
+
 public class Phone implements Comparable {
 //определяем поля класса"
 
