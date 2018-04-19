@@ -16,10 +16,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- *
- * @author Osin Vladimir
- */
+
 public class PhoneDemo {
 
     public static void main(String[] args) {
